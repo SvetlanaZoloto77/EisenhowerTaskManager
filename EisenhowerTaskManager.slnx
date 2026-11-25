@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EisenhowerTaskManager.Droid/EisenhowerTaskManager.Droid.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="EisenhowerTaskManager/EisenhowerTaskManager.csproj" />
+</Solution>
